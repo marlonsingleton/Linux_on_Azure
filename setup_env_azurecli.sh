@@ -1,3 +1,5 @@
+#!/bin/bash
+
 az group create --name myResourceGroupAutomate --location eastus
 
 az vm create \
