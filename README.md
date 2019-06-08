@@ -1,5 +1,15 @@
-# Information on using Cloud-Init on Azure
+# A Repository of All Things Linux on Azure
 
-### Source of Information
+### Distros
+* Red Hat
+* CentOS
+* Ubuntu
+* SUSE
+* Debian
+* CoreOS
+* Oracle
 
-https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-vm-deployment#cloud-init-overview
+### Tools
+* Cloud-Init
+* Extensions
+* Ansible
