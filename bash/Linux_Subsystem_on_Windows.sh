@@ -1,4 +1,5 @@
 # Ubuntu on Windows Test Drive
+# If you need instructions on the set up view Russell's example here: https://www.petri.com/how-to-install-windows-subsystem-for-linux
 
 Please create a default UNIX user account. The username does not need to match your Windows username.
 For more information visit: https://aka.ms/wslusers
