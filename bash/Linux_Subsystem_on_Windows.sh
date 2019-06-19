@@ -35,3 +35,17 @@ marlon@DESKTOP-4OU6D81:~$ expr 1 + 1
 marlon@DESKTOP-4OU6D81:~$ age=36
 marlon@DESKTOP-4OU6D81:~$ echo $age
 36
+
+# Basic Calculator comes pre-installed
+
+marlon@DESKTOP-4OU6D81:~$ bc
+bc 1.06.95
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'.
+10 + 10
+20
+1000 / 5
+200
+(2 + 4) * 2
+12
